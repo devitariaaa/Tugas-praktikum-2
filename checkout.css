@@ -1,0 +1,37 @@
+.cosukses .judul {
+    color: red; font-size: 20px;
+
+}
+
+.judultabel {
+    border: 1px solid; width: 90%;
+}
+
+.tabel1 {
+    width: 100%;
+}
+
+.judul1 {
+    padding-right: 20%;
+}
+
+.tabel2 {
+    border: 1px solid; 
+    display: flex; 
+    width: 90%; 
+    scroll-padding-top: 20px;
+}
+
+.tabel3 {
+    width: 90%;
+}
+
+.tabel4 {
+    width: 50%; background-color: silver; 
+    height: 50%;
+    padding: 20px;
+}
+
+.footer {
+    border: 1px solid; width: 90%;
+}
